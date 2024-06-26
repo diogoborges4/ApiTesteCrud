@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "k1UXTCYhhQv8BM6eWdoSve5Q5lguPMkb8FQwBGTDdc0=",
+  "Source": "ApiTesteCrud",
+  "BasePath": "_content/ApiTesteCrud",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
